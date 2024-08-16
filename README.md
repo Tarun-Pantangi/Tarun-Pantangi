@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Pantangi</h1>
 <h3 align="center">CSE Student at VIT Vellore '25 🎓 | Web Developer 💻 | ML Enthusiast 🧠 | Competitive Programmer ⌨️</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966”>
+<img align=“right” alt=“Coding” width=“400” src=“https://drive.google.com/file/d/1xDcH-ZflAdGXjZygXzTlo1yjRErj-DmO/view?usp=drive_link”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-pantangi&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-pantangi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-pantangi" alt="tarun-pantangi" /></a> </p>
