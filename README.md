@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Pantangi</h1>
 <h3 align="center">CSE Student at VIT Vellore '25 🎓 | Web Developer 💻 | ML Enthusiast 🧠 | Competitive Programmer ⌨️</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://drive.google.com/file/d/1xDcH-ZflAdGXjZygXzTlo1yjRErj-DmO/view?usp=drive_link”>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-pantangi&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-pantangi" /> </p>
+<img align="center" width="1000" height="300" src="https://camo.githubusercontent.com/42aa9a93aff426157ccace55c83ebff9a6ef666ad769063f20d27b30e2d85224/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" alt="coding emoji" data-canonical-src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" style="max-width: 100%;">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-pantangi" alt="tarun-pantangi" /></a> </p>
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **saitarunpantangi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L3_MqKnAG_68hVi-Wsiyf3cnr8kU05-Y/view](https://drive.google.com/file/d/1L3_MqKnAG_68hVi-Wsiyf3cnr8kU05-Y/view)
+- 📄 Find out about my experiences by looking at my [Resume](https://drive.google.com/file/d/1L3_MqKnAG_68hVi-Wsiyf3cnr8kU05-Y/view)
 
 <h3 align="left">Education:</h3>
 <ul>
