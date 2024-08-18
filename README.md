@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **saitarunpantangi@gmail.com**
 
+- 🌐 Check out my [Portfolio Website](https://tarun-pantangi-portfolio.vercel.app/)
+
 - 📄 Find out about my experiences by looking at my [Resume](https://drive.google.com/file/d/1L3_MqKnAG_68hVi-Wsiyf3cnr8kU05-Y/view)
 
 <h3 align="left">Education:</h3>
